@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cpoe-maven-sandbox.iml" filepath="$PROJECT_DIR$/cpoe-maven-sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-release/framework/framework.iml" filepath="$PROJECT_DIR$/maven-release/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-release/maven-release.iml" filepath="$PROJECT_DIR$/maven-release/maven-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-release/plugin/plugin.iml" filepath="$PROJECT_DIR$/maven-release/plugin/plugin.iml" />
+    </modules>
+  </component>
+</project>
+
