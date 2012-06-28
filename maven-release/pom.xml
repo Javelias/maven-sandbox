@@ -15,9 +15,10 @@
 
     <packaging>pom</packaging>
 
+    <name>maven release example</name>
+
     <modules>
         <module>plugin</module>
-        <module>framework</module>
         <module>framework</module>
     </modules>
 

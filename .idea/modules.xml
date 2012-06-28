@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/cpoe-maven-sandbox.iml" filepath="$PROJECT_DIR$/cpoe-maven-sandbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven-release/framework/framework.iml" filepath="$PROJECT_DIR$/maven-release/framework/framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven-release/maven-release.iml" filepath="$PROJECT_DIR$/maven-release/maven-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-release/framework/moduleA/moduleA.iml" filepath="$PROJECT_DIR$/maven-release/framework/moduleA/moduleA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-release/framework/moduleB/moduleB.iml" filepath="$PROJECT_DIR$/maven-release/framework/moduleB/moduleB.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven-release/plugin/plugin.iml" filepath="$PROJECT_DIR$/maven-release/plugin/plugin.iml" />
     </modules>
   </component>
